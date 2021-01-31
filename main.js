@@ -52,7 +52,7 @@ verifyButton.addEventListener('click' , function (){
     displayMatchResult('block', 'none')
   }
   else if(inputedPin == '' || generatePin == ''){
-    alert('Please Input same Password and don not input empty password')
+    alert('Please Input same Password and do not input empty password')
   }
  
   else{
